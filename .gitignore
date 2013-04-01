@@ -6,6 +6,9 @@
 *.lo
 *.o
 
+## Executables
+*.out
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
