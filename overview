@@ -1,20 +1,20 @@
 C++ Primer 6th Edition
 
-Chap 01:    9  History
-Chap 02:   27  Intro
-Chap 03:   65  Data
-Chap 04:  115  Compound Types
-Chap 05:  195  Loops
-Chap 06:  253  Branching
-Chap 07:  305  Functions
-Chap 08:  379  More Functions
-Chap 09:  447  Memory and Namespace
-Chap 10:  505  Objects and Classes
-Chap 11:  563  Working with Classes
-Chap 12:  627  Classes and DMA
-Chap 13:  707  Class Inheritance
-Chap 14:  785  Reusing code in C++
-Chap 15:  877  Friends, Exceptions, and More
-Chap 16:  951  Strings and STL
-Chap 17: 1061  Input, Output, Files
-Chap 18: 1153  C++11
+Chap 01:    9  18  History
+Chap 02:   27  38  Intro
+Chap 03:   65  50  Data
+Chap 04:  115  80  Compound Types
+Chap 05:  195  58  Loops
+Chap 06:  253  52  Branching
+Chap 07:  305  74  Functions
+Chap 08:  379  68  More Functions
+Chap 09:  447  58  Memory and Namespace
+Chap 10:  505  58  Objects and Classes
+Chap 11:  563  64  Working with Classes
+Chap 12:  627  80  Classes and DMA
+Chap 13:  707  78  Class Inheritance
+Chap 14:  785  92  Reusing code in C++
+Chap 15:  877  74  Friends, Exceptions, and More
+Chap 16:  951  74  Strings and STL
+Chap 17: 1061 110 Input, Output, Files
+Chap 18: 1153  92  C++11
