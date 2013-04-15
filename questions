@@ -1,0 +1,3 @@
+is "car *cars = new car[3];" correct - or "car[] *cars = new car[3];"
+
+cin : p. 234 (+ more?)

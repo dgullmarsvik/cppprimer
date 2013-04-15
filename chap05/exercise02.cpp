@@ -1,17 +1,21 @@
-// exercise03.cpp
+// exercise02.cpp -- [] -> array, long long -> long double
 #include <iostream>
+#include <array>
+const int ArSize=101;
 int main()
 {
   using namespace std;
-  cout << "Enter numbers: ";
-  int input = -1;
-  int sum = 0;
-  do
+  array<long double, ArSize> factorials;
+  
+  factorials[0] = factorials[1] = 1L;
+  for (int i = 2; i < ArSize; i++)
   {
-    cin >> input;
-    sum += input;
-    cout << "sum: " << sum << endl;
-  } while (input != 0);
-
+    factorials[i] = i * factorials[i-1];
+  }
+  for (int i = 0; i < ArSize; i++)
+  {
+    cout << i << "! = " << factorials[i] << endl;
+  }
+  
   return 0;
 }
