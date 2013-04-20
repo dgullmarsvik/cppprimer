@@ -1,5 +1,42 @@
 Low Level C++ Curriculum
 
+RAII
+RTII
+Functors
+Generic Programming
+STL
+Valgrind
+Template Meta Programming
+initialization lists
+Abstract Classes
+
+Effective C++
+More Effective C++
+Exceptional C++
+More Exceptional C++
+Effective STL
+b*Accelerated C++
+(Object-oriented modelling)
+C++ Templates: The Complete guide
+C++ Template Metaprogramming / Advanced C++ Metaprogramming
+Modern C++ Design
+
+use const - be const correct
+don't worry about micro-optimizations (e.g. inline, <<)
+no raw pointers or arrays if possible
+write generic code = understand templates
+use STL
+use Boost
+object lifetime and scopr - manage RAII
+avoid runtime polymorphism, inheritance
+use compile-time functions
+
+template error messages
+reference types
+virtual destructor
+exception specifiers
+static object initialization segfaults
+
 Questions:
 1. How many ways are there to initialize a primitive data type in C++ and what are they?
 2. Why should you declare a desctructor as virtual?
