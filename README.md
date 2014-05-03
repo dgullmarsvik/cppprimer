@@ -1,4 +1,4 @@
 cppprimer
 =========
 
-Testing some C++ Code
+C++ Code
